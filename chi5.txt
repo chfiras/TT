@@ -1,0 +1,9 @@
+{"id":1,"name":"sa","widgetDatas":[{"id":10501,"widgetId":0,"widgetName":"Agreement Actions","widgetPosition":"rows_5_cols_3_x_0_y_0","widgetSize":"_","widgetFilter":"_","dashboardId":1},{"id":10502,"widgetId":0,"widgetName":"Approval Management","widgetPosition":"rows_5_cols_3_x_3_y_0","widgetSize":"_","widgetFilter":"_","dashboardId":1},{"id":10503,"widgetId":0,"widgetName":"Call And Recall","widgetPosition":"rows_5_cols_6_x_0_y_5","widgetSize":"_","widgetFilter":"_","dashboardId":1,"exposureManagerFilterId":1},{"id":10504,"widgetId":0,"widgetName":"Collateral Settlement Summary","widgetPosition":"rows_5_cols_6_x_6_y_0","widgetSize":"_","widgetFilter":"_","dashboardId":1},{"id":10505,"widgetId":0,"widgetName":"Delivery And Return","widgetPosition":"rows_5_cols_6_x_6_y_5","widgetSize":"_","widgetFilter":"_","dashboardId":1,"exposureManagerFilterId":2},{"id":10506,"widgetId":0,"widgetName":"Internal Reviews","widgetPosition":"rows_5_cols_6_x_6_y_10","widgetSize":"_","widgetFilter":"_","dashboardId":1},{"id":10507,"widgetId":0,"widgetName":"Substitution","widgetPosition":"rows_5_cols_12_x_0_y_15","widgetSize":"_","widgetFilter":"_","dashboardId":1,"exposureManagerFilterId":3},{"id":10508,"widgetId":0,"widgetName":"Today Events","widgetPosition":"rows_5_cols_6_x_0_y_10","widgetSize":"_","widgetFilter":"_","dashboardId":1}]}
+
+
+
+
+getAvailableWidget
+
+[{"id":5,"widgetId":0,"widgetName":"Agreement Actions","dashboardId":0},{"id":7,"widgetId":0,"widgetName":"Approval Management","dashboardId":0},{"id":6,"widgetId":0,"widgetName":"Collateral Settlement Summary","dashboardId":0}]
+
